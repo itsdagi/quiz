@@ -19,16 +19,20 @@
     background-color: rgb(206, 160, 34);
     padding: 30px;
 }
-.xicon{
-    
+.xicon {
+    display: flex; /* Add this to make it a flex container */
     background-color: rgb(206, 160, 34);
+    align-items: center;
+    justify-content: center;
 }
-.xicon img{
-    margin-top: 60px;
-   margin-left: 300px;
+
+.xicon img {
+    margin-top: 50px;
     border-radius: 50%;
-    width: 100px;
+    width: 100px; /* Adjust this to your preferred size or use a fixed value */
+    height: auto; /* Maintain aspect ratio */
 }
+
 .heading{   
     margin: 10px auto 40px auto;
 }
