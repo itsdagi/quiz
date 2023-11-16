@@ -16,11 +16,20 @@
 }
 
 .quiz{
-    background-color: #cfa122;
+    background-color: rgb(206, 160, 34);
     padding: 30px;
 }
-
-.heading{
+.xicon{
+    
+    background-color: rgb(206, 160, 34);
+}
+.xicon img{
+    margin-top: 60px;
+   margin-left: 300px;
+    border-radius: 50%;
+    width: 100px;
+}
+.heading{   
     margin: 10px auto 40px auto;
 }
 
