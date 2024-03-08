@@ -43,4 +43,4 @@ const filteredMovies = movies.filter((movie) =>{
   result = movie.rating > 6;  
   return result;
 })
-console.log(filteredMovies)
+console.log(filteredMovies);
