@@ -5,4 +5,4 @@ const findNums = numbers.find((num)=>{
   return num > 50;
 })
 
-console.log(findNums) // find the first element that satisfys a condition;
+console.log(findNums); // find the first element that satisfys a condition;
