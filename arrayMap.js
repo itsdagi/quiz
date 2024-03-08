@@ -39,5 +39,5 @@ const newPriceTag = products.map((product) =>{
   };
 });
 
-console.log(newPriceTag)
-console.log(products)
+console.log(newPriceTag);
+console.log(products);
